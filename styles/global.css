@@ -26,10 +26,10 @@ a {
   text-decoration: none;
 }
 
-button:hover {
+/* button:hover {
   cursor: pointer;
   color: var(--green)
-}
+} */
 
 
 #app {
