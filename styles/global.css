@@ -28,7 +28,9 @@ a {
 
 button:hover {
   cursor: pointer;
+  color: var(--green)
 }
+
 
 #app {
   display: flex;
