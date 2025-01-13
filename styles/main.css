@@ -43,23 +43,6 @@ main {
     column-gap: 32px;  
 }
 
-/* .main__info div a, .main__info div button {
-    width: 100%;
-    padding: 10px 0;
-    border-radius: 3px;
-
-    font-size: 16px;
-    font-weight: 600;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 0.3px;
-}
-
-.main__info div button {
-    background: transparent;
-    border: 1px solid var(--green);
-} */
-
 .main__info div a button {
     margin: 0 5px;
 }

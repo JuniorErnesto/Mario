@@ -26,12 +26,6 @@ a {
   text-decoration: none;
 }
 
-/* button:hover {
-  cursor: pointer;
-  color: var(--green)
-} */
-
-
 #app {
   display: flex;
   flex-direction: column;
